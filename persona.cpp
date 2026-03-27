@@ -10,3 +10,9 @@ class persona {
         cout<<"puton netanyahu"<<endl;
     }
 }
+
+
+void main(){
+    persona p;
+    persona.hablar();
+}
