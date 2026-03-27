@@ -7,6 +7,6 @@ using namespace std;
 class persona {
     int gentil;
     void hablar(){
-        cout<<"dime donde va"<<endl;
+        cout<<"puton netanyahu"<<endl;
     }
 }
