@@ -10,3 +10,9 @@ class persona {
         cout<<"dime donde va"<<endl;
     }
 }
+
+
+void main(){
+    persona p;
+    persona.hablar();
+}
